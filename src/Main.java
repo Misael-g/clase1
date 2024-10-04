@@ -13,8 +13,8 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
-        //cambios de mejora en el codigo
         System.out.printf("hola");
 
+        System.out.print("Por favor, introduce tu nombre jaja : ");
     }
 }
